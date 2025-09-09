@@ -1,0 +1,35 @@
+{
+    "headers": {
+        "capabilities": "Capabilities",
+        "industries": "Industries",
+        "insights": "Insights",
+        "careers": "Careers",
+        "about": "About",
+        "getStarted": "Get Started"
+    },
+    "footer": {
+        "services": "Services",
+        "digitalEngineering": "Digital Engineering",
+        "aiDataScience": "AI & Data Science",
+        "productDesign": "Product Design",
+        "devopsCloud": "DevOps & Cloud",
+        "industries": "Industries",
+        "financialServices": "Financial Services",
+        "healthcare": "Healthcare",
+        "retailEcommerce": "Retail & E-commerce",
+        "technology": "Technology",
+        "company": "Company",
+        "aboutUs": "About Us",
+        "careers": "Careers",
+        "insights": "Insights",
+        "contact": "Contact",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "security": "Security",
+        "globalDelivery": "Global Delivery Centers",
+        "isoCertified": "ISO 27001 Certified",
+        "topOutsourcing": "Top Outsourcing Company 2024",
+        "copyright": "© 2024 HD CodeLap. All rights reserved. Part of HD FUTURETECH Ecosystem.",
+        "description": "Digital engineering excellence since 2023. We partner with enterprises to build scalable solutions that drive transformation and growth."
+    }
+}

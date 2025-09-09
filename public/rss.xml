@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>HD CodeLap Blog</title>
+    <link>https://hdcodelap.com</link>
+    <description>Cập nhật tin tức & bài viết kỹ thuật mới nhất</description>
+    <language>vi</language>
+
+    <item>
+      <title>Cách viết tool tự động hoá với Node.js</title>
+      <link>https://hdcodelap.com/blog/tool-nodejs</link>
+      <pubDate>Wed, 25 Jun 2025 14:00:00 +0700</pubDate>
+      <description>Hướng dẫn chi tiết cách xây dựng một tool tự động hoá bằng Node.js và Puppeteer</description>
+    </item>
+
+  </channel>
+</rss>
